@@ -1,0 +1,5 @@
+[app]
+name = "jenny"
+stylized-name = "Jenny"
+domain = "mapacode.tw"
+template-pack = "winit"
